@@ -21,7 +21,7 @@ We tend to integrate both ARIMA and PROPHET models which together provide an acc
 # Active, Recovered, Deaths in Hotspot Countries and India as of May 15
 ![image](https://user-images.githubusercontent.com/53271193/222927780-bdd65b91-d649-45e3-bfa6-9c15d657d7c4.png)
 
-#Death Rate per Million in Hotspot Countries
+# Death Rate per Million in Hotspot Countries
 ![image](https://user-images.githubusercontent.com/53271193/222927789-1357c6d6-3008-47ce-85f3-7392522ae8f2.png)
 
 # India – Age Group wise Distribution
