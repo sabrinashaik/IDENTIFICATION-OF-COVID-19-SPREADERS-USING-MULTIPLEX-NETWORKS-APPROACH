@@ -5,8 +5,7 @@ relationship between socio-cultural and economic characteristics with the number
 infections and deaths caused by the COVID-19 virus in different countries. Using 5-
 layer multiplex network GDP, life expectancy, number of air travel, and budget for 
 health.
-We tend to integrate both ARIMA and PROPHET models which together provide an 
-accurate result for non-linear trends.
+We tend to integrate both ARIMA and PROPHET models which together provide an accurate result for non-linear trends.
 ![image](https://user-images.githubusercontent.com/53271193/222927691-00852903-3c5b-4c7d-929f-f651e95fd145.png)
 ![image](https://user-images.githubusercontent.com/53271193/222927703-d4ae8e83-c400-4d27-974d-d904f7e9014a.png)
 
